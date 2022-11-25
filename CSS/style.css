@@ -1,0 +1,78 @@
+body{
+    font-family: 'open sans',sans-serif;
+}
+
+.col-md-3{
+    font-size:35px;
+    color: rgb(0, 0, 0);
+}
+.banner-container{
+   background-color: rgb(251, 255, 0);
+}
+
+.banner-coloum{
+    background-color: rgb(4, 4, 109);
+
+}
+
+.degsignation{
+    font-family: 'Dancing Script', cursive;
+}
+
+.col-md-6{
+    border-radius: 70px;
+    padding: 20px;
+    margin: auto;
+    position:relative;
+
+}
+
+.Image-fluid{
+    margin-left:auto ;
+    margin-right:auto ;
+    display: block;
+    width: 250px;
+    background-color: aqua;
+    
+}
+
+
+.banner-container1{
+    background-color: blue;
+    font-size: medium;
+    color: aliceblue;
+    
+}
+
+.navbar-container{
+    background-color: black;   
+
+    position:fixed;
+    z-index: 2;
+    top: 0%;
+   
+}
+
+    
+.test{
+    border-radius:100%;
+    background-color: brown;
+    border-color: black;
+}
+
+.table-container{
+border: 1ch;
+background-color: beige;
+font-size:large ;
+
+
+}
+
+.project-container{
+    background-color: aqua;
+
+}
+
+.education-container {
+ background-color: darkorange;
+}
